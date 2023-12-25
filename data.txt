@@ -1,0 +1,9 @@
+https://api.openweathermap.org/data/2.5/weather?q=jaipur&appid=63092d71a2cf2c607353f5993002f934
+
+https://api.openweathermap.org/data/2.5/weather?q=pune&appid=63092d71a2cf2c607353f5993002f934
+
+my api key  63092d71a2cf2c607353f5993002f934
+
+
+
+                          
